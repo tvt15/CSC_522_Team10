@@ -7,13 +7,13 @@ This notebook contains analysis and predictions related to student programming p
 1. **Clone the Repository**: Clone or download the repository containing the IPython Notebook and the datasets to your local machine.
    
    ```bash
-   git clone (https://github.com/tvt15/CSC_522_Team10.git)
+   git clone https://github.com/tvt15/CSC_522_Team10.git
    ```
 
 2. **Navigate to the Directory**: Open your terminal or command prompt and navigate to the directory where the notebook and datasets are located.
    
    ```bash
-   cd /path/to/repository
+   cd CSC_522_Team10
    ```
 
 3. **Install Dependencies**: Ensure you have the necessary dependencies installed. It's recommended to use a virtual environment.
